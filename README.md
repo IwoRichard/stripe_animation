@@ -1,16 +1,5 @@
 # stripe_animation
 
-A new Flutter project.
+![Screenshot (505)](https://user-images.githubusercontent.com/104234924/235392205-9b62d41b-430b-4a25-b5b1-3477b20ab089.png)
+![Screenshot (504)](https://user-images.githubusercontent.com/104234924/235392218-70f1bf3d-cae1-414d-9fa8-f8a2c58c2dd8.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
